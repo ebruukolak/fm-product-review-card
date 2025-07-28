@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click here!](https://your-solution-url.com)
+- Solution URL: [Click here!](https://github.com/ebruukolak/fm-product-review-card)
 - Live Site URL: [Click here!](https://product-review-ebrnl.netlify.app)
 
 ## My process
